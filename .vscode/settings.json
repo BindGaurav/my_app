@@ -1,0 +1,12 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++",
+    "C_Cpp.default.intelliSenseMode": "linux-clang-x64",
+    "cmake.configureSettings": {
+        "CMAKE_C_COMPILER": "/usr/bin/clang",
+        "CMAKE_CXX_COMPILER": "/usr/bin/clang++"
+    },
+    "cmake.sourceDirectory": "/home/beastnova/flutter_project/my_app/linux",
+    "cmake.buildDirectory": "${workspaceFolder}/build/linux",
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+    
+}

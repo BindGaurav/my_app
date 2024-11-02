@@ -1,0 +1,14 @@
+/home/beastnova/flutter_project/my_app/linux/out/build/Configure preset using toolchain file/CMakeFiles/my_app.dir
+/home/beastnova/flutter_project/my_app/linux/out/build/Configure preset using toolchain file/CMakeFiles/edit_cache.dir
+/home/beastnova/flutter_project/my_app/linux/out/build/Configure preset using toolchain file/CMakeFiles/rebuild_cache.dir
+/home/beastnova/flutter_project/my_app/linux/out/build/Configure preset using toolchain file/CMakeFiles/list_install_components.dir
+/home/beastnova/flutter_project/my_app/linux/out/build/Configure preset using toolchain file/CMakeFiles/install.dir
+/home/beastnova/flutter_project/my_app/linux/out/build/Configure preset using toolchain file/CMakeFiles/install/local.dir
+/home/beastnova/flutter_project/my_app/linux/out/build/Configure preset using toolchain file/CMakeFiles/install/strip.dir
+/home/beastnova/flutter_project/my_app/linux/out/build/Configure preset using toolchain file/flutter/CMakeFiles/flutter_assemble.dir
+/home/beastnova/flutter_project/my_app/linux/out/build/Configure preset using toolchain file/flutter/CMakeFiles/edit_cache.dir
+/home/beastnova/flutter_project/my_app/linux/out/build/Configure preset using toolchain file/flutter/CMakeFiles/rebuild_cache.dir
+/home/beastnova/flutter_project/my_app/linux/out/build/Configure preset using toolchain file/flutter/CMakeFiles/list_install_components.dir
+/home/beastnova/flutter_project/my_app/linux/out/build/Configure preset using toolchain file/flutter/CMakeFiles/install.dir
+/home/beastnova/flutter_project/my_app/linux/out/build/Configure preset using toolchain file/flutter/CMakeFiles/install/local.dir
+/home/beastnova/flutter_project/my_app/linux/out/build/Configure preset using toolchain file/flutter/CMakeFiles/install/strip.dir
